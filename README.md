@@ -19,8 +19,8 @@ The goal is to strengthen problem-solving skills, understand patterns deeply, an
 ## 📚 Learning Sources
 
 - 📌 Striver DSA Sheet  
-- 🎥 [TakeUForward Profile](https://takeuforward.org/profile/nishchith52)  
-- 💻 [LeetCode Profile](https://leetcode.com/u/nishchith52/)  
+- 🎥 [TakeUForward ](https://takeuforward.org/profile/nishchith52)  
+- 💻 [LeetCode](https://leetcode.com/u/nishchith52/)  
 - 🔁 GitHub for tracking progress  
 
 ---
