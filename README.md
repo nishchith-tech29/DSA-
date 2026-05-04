@@ -65,8 +65,7 @@ The goal is to strengthen problem-solving skills, understand patterns deeply, an
 ---
 
 ## 🔥 Motto
-
-> “Don’t just solve problems — understand the pattern behind them.”
+“Don’t just solve problems — understand the pattern behind them.”
 
 ---
 
