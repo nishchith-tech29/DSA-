@@ -25,16 +25,6 @@ The goal is to strengthen problem-solving skills, understand patterns deeply, an
 
 ---
 
-## 🧠 My Approach
-
-- Follow Striver Sheet in a structured order  
-- Focus on understanding problem-solving patterns  
-- Use TakeUForward for concept clarity when needed  
-- Practice until I can solve problems independently  
-- Revise important concepts regularly  
-
----
-
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
